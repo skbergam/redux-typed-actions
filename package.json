@@ -1,0 +1,26 @@
+{
+  "name": "redux-typed-actions",
+  "version": "1.0.0",
+  "description": "Statically-typed actions for Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skbergam/redux-typed-actions.git"
+  },
+  "keywords": [
+    "redux",
+    "actions",
+    "types",
+    "typescript",
+    "boilerplate"
+  ],
+  "author": "Sean Bergam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skbergam/redux-typed-actions/issues"
+  },
+  "homepage": "https://github.com/skbergam/redux-typed-actions#readme"
+}
